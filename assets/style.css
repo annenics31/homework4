@@ -1,0 +1,59 @@
+#menubar {
+	background-color: #ff3333;
+	height: 100px;
+}
+.logo {
+	background-color: #800000;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: 50px;
+	left: 40px;
+}
+#dp {
+	height: 70px;
+	width: 70px;
+	border-radius: 50%;
+	margin: 15px;
+}
+#mainbody {
+	background-color: #0d0d0d;
+	height: 1000px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#box {
+	background-color: #d9d9d9;
+	width: 600px;
+	height: 900px;
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-radius: 50px 0px 50px 0px;
+}	
+#image {
+	height: 200px;
+	width: 550px;
+	padding-left: 25px;
+
+}
+#title {
+	margin-left: 25px;
+}
+#paragraph {
+	line-height: 30px;
+	margin-left: 25px;
+}
+#paragraph2 {
+	line-height: 30px;
+	margin-left: 25px;
+}
+#paragraph3 {
+	line-height: 30px;
+	margin-left: 25px;
+}
+#footer {
+	background-color: #ff3333;
+	height: 100px;
+
+}
